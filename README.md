@@ -1,0 +1,1 @@
+# konsoru-launcher-releases
