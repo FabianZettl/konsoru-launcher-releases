@@ -39,11 +39,15 @@ screen, Clear Logo art on top).
 
 - Native Android HOME replacement — boots straight into KONSORU on the Thor
 - Bespoke per-console themed shelves: Nintendo Switch, GameCube, Wii, Wii U, Nintendo 3DS
-  (dual-screen aware), PlayStation 2, PSP, SNES/Classic-Mini style, Dreamcast
-- Every other platform currently falls back to a clean generic grid
-- Dual-display aware second-screen details view, matching the Thor's own hardware layout
+  (dual-screen aware), PlayStation 2, PSP, SNES, GBA, GBC, GB, Dreamcast
+- Cartridge insertion animation on launch for SNES/GBA/GBC/GB
+- Every other platform currently falls back to a clean generic grid (with real cover art)
+- Dual-display aware second-screen details view, matching the Thor's own hardware layout — or a
+  Single Screen Mode in Settings for devices without a second display
 - Cover art and metadata fallback via SteamGridDB and IGDB when local scraped data is missing
-- Per-platform emulator selection, with RetroArch core support for classic systems
+- Per-platform emulator selection, with RetroArch core support for classic systems, plus a
+  per-game override, manual metadata re-scrape, and manual asset swap from its own options popup
+- In-app update checker with a stable/prerelease channel toggle
 
 ## Known issues
 
