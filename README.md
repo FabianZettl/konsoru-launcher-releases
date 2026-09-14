@@ -69,6 +69,13 @@ screen, Clear Logo art on top).
 To make KONSORU your default Home app, press the physical Home button and choose it when Android
 asks, or set it manually under Android's own Home app settings.
 
+## AI Disclosure
+
+I'm not a trained coder — I work as a project manager in IT/startups. I've released several
+projects before this one — PES/eFootball patches, mods for other games, Android launchers, an MP4
+player, and music streaming apps. For KONSORU, I use AI tools (Codex, Claude Code) for
+error-checking and bug fixes. The design, UI, behavior, and every feature are my own work.
+
 ## Feedback & support
 
 This release exists to collect feedback — bug reports, impressions, platforms you'd like themed
