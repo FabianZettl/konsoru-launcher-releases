@@ -112,11 +112,11 @@ asks, or set it under Android's own Home app settings.
 
 ## AI Disclosure
 
-I'm not a trained coder — I work as a project manager in IT/startups. I've released several
-projects before this one — PES/eFootball patches, mods for other games, Android launchers, an MP4
-player, and music streaming apps. For KONSORU, I use AI tools (Codex, Claude Code) for
-error-checking and bug fixes. The design, UI, behavior, and every feature are my own work.
+KONSŌRU is created and directed by Fabian Z., an independent app developer. The project uses Claude and Claude Code as development tools for debugging, code review, and documentation. AI-assisted code may be present in this repository.
 
+All product decisions – features, design, priorities, and releases – are human-led. AI output is evaluated before inclusion.
+
+For attribution of third-party code, assets, and libraries, see separate documentation.
 ## Feedback & support
 
 This release exists to collect feedback — bug reports, impressions, platforms you'd like themed
